@@ -1,0 +1,1 @@
+export { useGetDataPoolsQuery } from './useGetDataPoolsQuery';
